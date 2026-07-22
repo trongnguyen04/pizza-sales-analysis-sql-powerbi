@@ -77,7 +77,7 @@ SELECT
 	SUM(total_price) AS Total_Revenue
 FROM pizza_sales
 GROUP BY pizza_name
-ORDER BY Total_Revenue ASC
+ORDER BY Total_Revenue DESC
 
 --Top 5 pizza có tổng doanh thu thấp nhất
 SELECT 
@@ -112,4 +112,4 @@ FROM
 GROUP BY 
 	pizza_name
 ORDER BY
-	Total_Oders ASC
+	Total_Oders DESC
