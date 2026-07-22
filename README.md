@@ -55,7 +55,8 @@ an interactive dashboard.
 - `Pizza_Sales_Analysis.sql`: SQL queries used for analysis.
 - `Pizza_Sales_Dashboard.pbix`: Power BI dashboard file.
 - `pizza_sales.csv`: Dataset used in the project.
-- `dashboard-overview.png`: Dashboard preview.
+- `dashboard-home-overview.png`: Dashboard preview.
+- `dashboard-best-worst-overview.png`: Dashboard preview.
 
 ## Author
 
