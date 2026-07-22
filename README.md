@@ -27,9 +27,11 @@ an interactive dashboard.
 - Which pizzas perform best and worst?
 
 ## Dashboard Preview
-
+- Dashboard Home Overview
 <img width="1312" height="715" alt="dashboard-home-overview" src="https://github.com/user-attachments/assets/a232d855-bff1-4408-9d7d-83851c27f99d" />
 
+
+- Dashboard Best/Worst Overview
 <img width="1325" height="722" alt="dashboard-best-worst-overview" src="https://github.com/user-attachments/assets/83b5da06-1ac5-406b-b749-5c43bbede3c9" />
 
 
